@@ -1,0 +1,25 @@
+body{
+   
+}
+.borde {
+    border: 1px solid black;
+}
+.e-main{
+    position: relative;
+    max-height: 40rem;
+    overflow: hidden;
+
+}
+.message-main{
+    width: 40%;
+    position: absolute;
+    top: 5rem;
+    right: 5rem;
+}
+
+.container-carrusel{
+    min-height: 13rem;
+}
+.container-carrusel div div img{
+    height: 10rem;
+}
